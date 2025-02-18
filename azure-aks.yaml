@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: mypythondockerrepo
-        image: myregistrydevops.azurecr.io/merranbo1989/mypythondockerrepo
+        image: ncplregistry.azurecr.io/merranbo1989/mypythondockerrepo
 
         ports:
         - containerPort: 5000
